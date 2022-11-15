@@ -1,0 +1,15 @@
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_Auto_Default_Structs/bin/Debug/net7.0/base_DOTNET6_Auto_Default_Structs
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_Auto_Default_Structs/bin/Debug/net7.0/base_DOTNET6_Auto_Default_Structs.deps.json
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_Auto_Default_Structs/bin/Debug/net7.0/base_DOTNET6_Auto_Default_Structs.runtimeconfig.json
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_Auto_Default_Structs/bin/Debug/net7.0/base_DOTNET6_Auto_Default_Structs.dll
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_Auto_Default_Structs/bin/Debug/net7.0/base_DOTNET6_Auto_Default_Structs.pdb
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_Auto_Default_Structs/obj/Debug/net7.0/base_DOTNET6_UTF8_Strings_Literal.csproj.AssemblyReference.cache
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_Auto_Default_Structs/obj/Debug/net7.0/base_DOTNET6_UTF8_Strings_Literal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_Auto_Default_Structs/obj/Debug/net7.0/base_DOTNET6_UTF8_Strings_Literal.AssemblyInfoInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_Auto_Default_Structs/obj/Debug/net7.0/base_DOTNET6_UTF8_Strings_Literal.AssemblyInfo.cs
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_Auto_Default_Structs/obj/Debug/net7.0/base_DOTNET6_UTF8_Strings_Literal.csproj.CoreCompileInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_Auto_Default_Structs/obj/Debug/net7.0/base_DOTNET6_Auto_Default_Structs.dll
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_Auto_Default_Structs/obj/Debug/net7.0/refint/base_DOTNET6_Auto_Default_Structs.dll
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_Auto_Default_Structs/obj/Debug/net7.0/base_DOTNET6_Auto_Default_Structs.pdb
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_Auto_Default_Structs/obj/Debug/net7.0/base_DOTNET6_UTF8_Strings_Literal.genruntimeconfig.cache
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_Auto_Default_Structs/obj/Debug/net7.0/ref/base_DOTNET6_Auto_Default_Structs.dll

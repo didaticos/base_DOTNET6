@@ -1,0 +1,15 @@
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_RAW_Strings_LITERAL/bin/Debug/net7.0/base_DOTNET6_RAW_Strings_LITERAL
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_RAW_Strings_LITERAL/bin/Debug/net7.0/base_DOTNET6_RAW_Strings_LITERAL.deps.json
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_RAW_Strings_LITERAL/bin/Debug/net7.0/base_DOTNET6_RAW_Strings_LITERAL.runtimeconfig.json
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_RAW_Strings_LITERAL/bin/Debug/net7.0/base_DOTNET6_RAW_Strings_LITERAL.dll
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_RAW_Strings_LITERAL/bin/Debug/net7.0/base_DOTNET6_RAW_Strings_LITERAL.pdb
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_RAW_Strings_LITERAL/obj/Debug/net7.0/base_DOTNET6_RAW_Strings_LITERAL.csproj.AssemblyReference.cache
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_RAW_Strings_LITERAL/obj/Debug/net7.0/base_DOTNET6_RAW_Strings_LITERAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_RAW_Strings_LITERAL/obj/Debug/net7.0/base_DOTNET6_RAW_Strings_LITERAL.AssemblyInfoInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_RAW_Strings_LITERAL/obj/Debug/net7.0/base_DOTNET6_RAW_Strings_LITERAL.AssemblyInfo.cs
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_RAW_Strings_LITERAL/obj/Debug/net7.0/base_DOTNET6_RAW_Strings_LITERAL.csproj.CoreCompileInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_RAW_Strings_LITERAL/obj/Debug/net7.0/base_DOTNET6_RAW_Strings_LITERAL.dll
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_RAW_Strings_LITERAL/obj/Debug/net7.0/refint/base_DOTNET6_RAW_Strings_LITERAL.dll
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_RAW_Strings_LITERAL/obj/Debug/net7.0/base_DOTNET6_RAW_Strings_LITERAL.pdb
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_RAW_Strings_LITERAL/obj/Debug/net7.0/base_DOTNET6_RAW_Strings_LITERAL.genruntimeconfig.cache
+/Users/diogocsantos/Projects/base_DOTNET6/base_DOTNET6_RAW_Strings_LITERAL/obj/Debug/net7.0/ref/base_DOTNET6_RAW_Strings_LITERAL.dll
